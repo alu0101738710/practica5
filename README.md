@@ -11,4 +11,4 @@ En este repositorio encontrarás los siguientes archivos y programas:
 - `boolean_operators.cc`: Programa que realiza operaciones lógicas booleanas.
 - `división_enteros.cc`: Programa que realiza divisiones de números enteros.
 
-Cada programa ha sido creado, compilado y ejecutado siguiendo los principios de programación estructurada.
+
